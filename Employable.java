@@ -1,0 +1,6 @@
+
+
+interface Employable {
+    void employ();
+}
+

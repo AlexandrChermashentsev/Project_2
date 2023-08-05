@@ -1,0 +1,5 @@
+
+
+interface Playable {
+    void play();
+}

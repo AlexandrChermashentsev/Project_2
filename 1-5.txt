@@ -1,0 +1,67 @@
+ 1875  cat > home_animals.txt
+ 1876  cat > pack_animals.txt
+ 1877  cat pack_animals.txt home_animals.txt > all_animals.txt
+ 1878  cat all_animals.txt
+ 1879  mv "all_animals" "Humans_friends"
+ 1880  mv all_animals.txt humans_friends.txt
+ 1881  ps
+ 1882  ls
+ 1883  cat humans_friends.txt
+ 1884  mkdir animals
+ 1885  mv humans_friends.txt animals/
+ 1886  cat animals/humans_friends.txt
+ 1887  sudo apt update
+ 1888  sudo apt-get update
+ 1889  sudo apt-get install mysql-server
+ 1890  sudo mysql_secure_installation
+ 1891  sudo apt remove mysql-server
+ 1892  clear
+ 1893  sudo apt install mysql-server
+ 1894  sudo mysql_secure_installation
+ 1895  sudo apt remove mysql-server
+ 1896  sudo apt update
+ 1897  sudo apt-get install mysql-server
+ 1898  sudo mysql
+ 1899  sudo mysql_secure_installation
+ 1900  sudo apt remove mysql-server
+ 1901  systemctl status mysql
+ 1902  sudo apt remove mysql-server
+ 1903  clear
+ 1904  sudo apt update
+ 1905  sudo apt-get install mysql-server
+ 1906  systemctl status mysql
+ 1907  dpkg --help
+ 1908  dpkg -l
+ 1909  dpkg -i cowsay
+ 1910  dpkg --help
+ 1911  sudo remove mysql-server
+ 1912  sudo apt remove mysql-server
+ 1913  sudo list mysql
+ 1914*
+ 1915  sudo apt-get install mysql-server
+ 1916  sudo apt purge mysql-server
+ 1917  systemctl status mysql
+ 1918  clear
+ 1919  wget https://download.virtualbox.org/virtualbox/7.0.10/virtualbox-7.0_7.0.10-158379~Ubuntu~focal_amd64.deb
+ 1920  ll
+ 1921  dpkg -i virtualbox-7.0_7.0.10-158379~Ubuntu~focal_amd64.deb
+ 1922  sudo su
+ 1923  apt -f install
+ 1924  sudo apt -f install
+ 1925  ll
+ 1926  sudo apt -r virtualbox-7.0_7.0.10-158379~Ubuntu~focal_amd64.deb
+ 1927  man dpkg
+ 1928  sudo apt -r virtualbox
+ 1929  sudo dpkg -r virtualbox
+ 1930  sudo dpkg -r virtualbox-7.0_7.0.10-158379~Ubuntu~focal_amd64.deb
+ 1931  sudo apt dpkg -r virtualbox-7.0_7.0.10-158379~Ubuntu~focal_amd64.deb
+ 1932  sudo dpkg -r virtualbox-7.0_7.0.10-158379~Ubuntu~focal_amd64.deb
+ 1933  sudo dpkg --remove virtualbox-7.0_7.0.10-158379~Ubuntu~focal_amd64.deb
+ 1934  sudo dpkg -r virtualbox
+ 1935  sudo dpkg -r --force-all virtualbox
+ 1936  sudo dpkg -r --force-all virtualbox-7.0
+ 1937  ll
+ 1938  sudo apt remove virtualbox
+ 1939  sudo apt-get remove virtualbox
+ 1940  sudo apt-get --purge remove virtualbox
+ 1941  ll
